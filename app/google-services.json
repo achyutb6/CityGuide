@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153928560795",
+    "firebase_url": "https://tourism-a9147.firebaseio.com",
+    "project_id": "tourism-a9147",
+    "storage_bucket": "tourism-a9147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153928560795:android:e8957b1293ce66ef",
+        "android_client_info": {
+          "package_name": "com.twincoders.tourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153928560795-iuc31ttcn52nqfnh6gpkooeij8hvdldo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twincoders.tourism",
+            "certificate_hash": "cb69301412eb49508efd0d0c229a5752c6cb651c"
+          }
+        },
+        {
+          "client_id": "153928560795-pumfv1o0b76j52eek9j2e9gnq4s852gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKkN82rmw7iiRcC_3vocOxGsFfrF0Kik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153928560795-pumfv1o0b76j52eek9j2e9gnq4s852gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
